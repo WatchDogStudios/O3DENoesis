@@ -1,0 +1,15 @@
+set(FILES
+    Tests/NoesisTestEnvironment.cpp
+    Tests/ShaderTableTests.cpp
+    Tests/RenderStateMappingTests.cpp
+    Tests/RenderTapeTests.cpp
+    Tests/AtomTextureTests.cpp
+    Tests/SrgCacheKeyTests.cpp
+    Tests/AssetUriTests.cpp
+    Tests/KeyTableTests.cpp
+    Tests/InputRouterTests.cpp
+    Tests/ReloadRegistryTests.cpp
+    Tests/PremultiplyTests.cpp
+    Tests/ValueConversionTests.cpp
+    Tests/NoesisViewModelTests.cpp
+)

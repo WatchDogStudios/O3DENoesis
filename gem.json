@@ -1,0 +1,21 @@
+{
+    "gem_name": "NoesisGUI",
+    "version": "0.1.0",
+    "display_name": "NoesisGUI",
+    "license": "Apache-2.0 OR MIT",
+    "license_url": "https://opensource.org/licenses/Apache-2.0",
+    "origin": "WD Studios",
+    "origin_url": "https://wdstudios.tech",
+    "type": "Code",
+    "summary": "NoesisGUI 4.0 integration: XAML user interfaces rendered through Atom. Requires a NoesisGUI SDK (NOESIS_SDK_ROOT).",
+    "canonical_tags": ["Gem"],
+    "user_tags": ["UI", "Rendering"],
+    "platforms": ["Windows"],
+    "icon_path": "preview.png",
+    "requirements": "NoesisGUI SDK 4.0.0 installed. Configure with -DNOESIS_SDK_ROOT=<path>.",
+    "documentation_url": "",
+    "dependencies": ["Atom_RPI", "Atom_RHI", "Atom_Feature_Common"],
+    "compatible_engines": ["o3de>=2.6.0", "o3de-sdk>=2.6.0"],
+    "engine_api_dependencies": [],
+    "restricted": "NoesisGUI"
+}

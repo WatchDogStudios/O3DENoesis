@@ -1,0 +1,13 @@
+{
+    "Type": "JsonSerialization",
+    "Version": 1,
+    "ClassName": "AssetAliasesSourceData",
+    "ClassData": {
+        "AssetPaths": [
+            {
+                "Name": "NoesisPassTemplate",
+                "Path": "Passes/NoesisGUI/Noesis.pass"
+            }
+        ]
+    }
+}

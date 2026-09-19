@@ -1,0 +1,14 @@
+set(FILES
+    Source/Tools/NoesisGUIEditorSystemComponent.h
+    Source/Tools/NoesisGUIEditorSystemComponent.cpp
+    Source/Tools/XamlDependencyScanner.h
+    Source/Tools/XamlDependencyScanner.cpp
+    Source/Tools/XamlValidator.h
+    Source/Tools/XamlValidator.cpp
+    Source/Tools/XamlBuilderWorker.h
+    Source/Tools/XamlBuilderWorker.cpp
+    Source/Tools/FontBuilderWorker.h
+    Source/Tools/FontBuilderWorker.cpp
+    Source/Tools/NoesisGUIBuilderComponent.h
+    Source/Tools/NoesisGUIBuilderComponent.cpp
+)
